@@ -1,0 +1,21 @@
+[
+  {
+    "remote": "github",
+    "repository": "xawlw/android_kernel_xiaomi_vayu",
+    "target_path": "kernel/xiaomi/vayu",
+    "branch": "11"
+  },
+  {
+    "remote": "github",
+    "repository": "kdrag0n/proton-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+    "branch": "master"
+  },
+  {
+    "remote": "github",
+    "repository": "pocox3pro/android_vendor_xiaomi_vayu",
+    "target_path": "vendor/xiaomi/vayu",
+    "branch": "arrow-11.0"
+  }
+]
+
